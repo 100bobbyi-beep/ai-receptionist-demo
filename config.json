@@ -7,7 +7,7 @@
     "bookingUrl": "",
     "formEndpoint": ""
   },
-  "liveVoice": false,
+  "liveVoice": true,
   "pricing": {
     "show": false,
     "currency": "£",
