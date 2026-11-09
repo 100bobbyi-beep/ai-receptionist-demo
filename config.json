@@ -1,0 +1,22 @@
+{
+  "_readme": "Edit this file to change contact details, booking and pricing on the website without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here — this file is public.",
+  "companyName": "Yardline",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "bookingUrl": "",
+    "formEndpoint": ""
+  },
+  "liveVoice": false,
+  "pricing": {
+    "show": false,
+    "currency": "£",
+    "setupFee": "",
+    "setupIncludes": ["Your products, hours, delivery rules and team set up", "Call forwarding from your existing number", "Test calls with your team before go-live"],
+    "plans": [
+      { "name": "Single branch", "monthly": "", "includes": ["One phone line", "Enquiries, customers and insights dashboard", "Email and WhatsApp handovers"] },
+      { "name": "Multi-branch", "monthly": "", "includes": ["Several branches and numbers", "Per-branch routing", "Priority support"] }
+    ],
+    "usageNote": "Telephone and AI usage are charged at cost or included in an agreed allowance — confirmed in your quote."
+  }
+}
