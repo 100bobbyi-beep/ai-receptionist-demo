@@ -519,10 +519,6 @@
   "file": "ldt6epa.m4a",
   "seconds": 13.89
  },
- "lee|We're open today from 7:30am until 5pm. Our usual hours are Monday to Friday 7:30am to 5pm, Saturday 8am to 12pm, closed Sunday. Anything else I can do for you?": {
-  "file": "l1r7cn46.m4a",
-  "seconds": 13.77
- },
  "lee|Thanks for calling Kingfield Builders Merchants. Bye now.": {
   "file": "l1rylcf1.m4a",
   "seconds": 3.01
@@ -614,5 +610,9 @@
  "lee|No problem, Priya. I'll get that over to our accounts team. Cheers, bye.": {
   "file": "l1cuvp5z.m4a",
   "seconds": 4.26
+ },
+ "lee|On Saturdays we're open 8am to 12pm. Anything else I can do for you?": {
+  "file": "l16qcjl3.m4a",
+  "seconds": 4.76
  }
 }
