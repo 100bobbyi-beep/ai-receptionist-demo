@@ -1,155 +1,75 @@
 {
- "emma|Good morning, you're through to Kingfield Builders Merchants, Emma speaking. I'm the virtual assistant here. How can I help?": {
-  "file": "ec05yef.m4a",
-  "seconds": 6.95
- },
  "male|Morning, I need a few bits for a job. 25 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 C24 timber, and 15 bags of cement, delivered to site on Friday.": {
   "file": "muv14a6.m4a",
   "seconds": 13.39
- },
- "emma|Yeah, no problem. So that's 25 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered on Friday. For the plasterboard, what size sheets — 2400 by 1200, or something smaller?": {
-  "file": "ekwck8r.m4a",
-  "seconds": 19.16
  },
  "male|2400 by 1200": {
   "file": "m2lzeci.m4a",
   "seconds": 2.45
  },
- "emma|Lovely. For the timber, what lengths do you need — 2.4, 3.6, 4.8 metres?": {
-  "file": "e18zsriw.m4a",
-  "seconds": 7.57
- },
  "male|4.8 metres": {
   "file": "m17zviua.m4a",
   "seconds": 1.62
- },
- "emma|Right, I've got that. What's the postcode for the delivery?": {
-  "file": "eiq68ju.m4a",
-  "seconds": 3.72
  },
  "male|It's plot 12 on the Oakfield Park site, CM3 4AB": {
   "file": "m1jc9e3r.m4a",
   "seconds": 5.2
  },
- "emma|Okay. Who should the driver ask for on site, and their number?": {
-  "file": "e18qhet6.m4a",
-  "seconds": 4.44
- },
  "male|The site contact is Steve, on 07700 900999. There's good access for a full-size lorry and we'll unload by hand.": {
   "file": "m1l71dyp.m4a",
   "seconds": 10
- },
- "emma|Could I take your name, please?": {
-  "file": "e1xufn8n.m4a",
-  "seconds": 1.63
  },
  "male|Dan Walsh": {
   "file": "m1db4x5c.m4a",
   "seconds": 1
  },
- "emma|Thanks, Dan. And is that for a company, or just yourself?": {
-  "file": "ecyv2it.m4a",
-  "seconds": 4.27
- },
  "male|Walsh Construction": {
   "file": "m1trrdx0.m4a",
   "seconds": 1.29
- },
- "emma|Is the number you're calling from, ending 0 4 7 1, the best one to get you on?": {
-  "file": "e1l604qk.m4a",
-  "seconds": 5.34
  },
  "male|Yes, that's my mobile": {
   "file": "m1778ulg.m4a",
   "seconds": 1.66
  },
- "emma|Just to check I've got that right: Dan Walsh from Walsh Construction, on 07700 900471, for 25 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered to CM3 4AB on Friday?": {
-  "file": "evsq8hb.m4a",
-  "seconds": 21.11
- },
  "male|Actually, make the plasterboard 28 sheets": {
   "file": "mrb2rqn.m4a",
   "seconds": 3.22
- },
- "emma|28 sheets, no problem. Let me just check I've got that right: Dan Walsh from Walsh Construction, on 07700 900471, for 28 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered to CM3 4AB on Friday?": {
-  "file": "eovosyu.m4a",
-  "seconds": 23.32
  },
  "male|Yes, that's right": {
   "file": "m1ovlgwe.m4a",
   "seconds": 1.38
  },
- "emma|Lovely. I'll get that over to the sales team and they'll pick it up with you. Bye now.": {
-  "file": "ea9rkvw.m4a",
-  "seconds": 5.01
- },
  "male|Morning, I'm the driver with your timber delivery, I'm outside waiting and the gate's locked, where do I unload?": {
   "file": "mar80ur.m4a",
   "seconds": 6.49
- },
- "emma|Right, I'm flagging this as urgent for the yard team now. I'm not able to authorise unloading or tell you where to drop, but I'm alerting the yard team so someone can come to you. Could I take your name, please?": {
-  "file": "erlslct.m4a",
-  "seconds": 12.51
  },
  "male|Kev Barnes": {
   "file": "m3wuq3.m4a",
   "seconds": 0.99
  },
- "emma|Thanks, Kev. And which company are you driving for?": {
-  "file": "e1na1x4t.m4a",
-  "seconds": 3.54
- },
  "male|Northway Haulage": {
   "file": "mnfta4n.m4a",
   "seconds": 1.31
- },
- "emma|Have you got a delivery note or order number?": {
-  "file": "e12c24h2.m4a",
-  "seconds": 2.74
  },
  "male|delivery note 44102": {
   "file": "m6he8jl.m4a",
   "seconds": 2.68
  },
- "emma|Is the delivery for our yard, or for a customer's site?": {
-  "file": "e1d6m9ak.m4a",
-  "seconds": 3.67
- },
  "male|your yard": {
   "file": "m1vwxss1.m4a",
   "seconds": 0.86
- },
- "emma|What's your vehicle registration, so the yard can spot you?": {
-  "file": "e1jlppqc.m4a",
-  "seconds": 3.4
  },
  "male|KX19 LMN": {
   "file": "m1a3dlj6.m4a",
   "seconds": 1.88
  },
- "emma|Is the number you're calling from, ending 0 3 3 3, the best one to get you on?": {
-  "file": "e1gp8zbl.m4a",
-  "seconds": 5.29
- },
  "male|yes": {
   "file": "m1d2ytin.m4a",
   "seconds": 0.6
  },
- "emma|Just to check I've got that right: Kev Barnes from Northway Haulage, on 07700 900333, you can't get on site, delivery reference 44102?": {
-  "file": "ef1qqxq.m4a",
-  "seconds": 13.93
- },
- "emma|Thanks, Kev. I've marked that as urgent and let the team know now. Bye for now.": {
-  "file": "egtficp.m4a",
-  "seconds": 4.84
- },
  "male|Hi, can I get a price on 20 sheets of 12.5mm plasterboard, 2400 by 1200, and 15 bags of multi-finish, delivered Friday please?": {
   "file": "m54maz.m4a",
   "seconds": 10.17
- },
- "emma|Yeah, no problem. So that's 20 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered on Friday. I'm not able to confirm prices, stock or delivery times on this call, but the team will come back to you with that. What's the postcode for the delivery?": {
-  "file": "e1pcsxtz.m4a",
-  "seconds": 18.55
  },
  "male|It's 22 Mill Lane, Billericay, CM12 9AB": {
   "file": "mpw245e.m4a",
@@ -159,29 +79,13 @@
   "file": "m1sbe74z.m4a",
   "seconds": 1
  },
- "emma|Thanks, Mark. And is that for a company, or just yourself?": {
-  "file": "e16rek6b.m4a",
-  "seconds": 4.21
- },
  "male|Turner Builders": {
   "file": "mi4jg0k.m4a",
   "seconds": 1.13
  },
- "emma|Is the number you're calling from, ending 0 1 2 3, the best one to get you on?": {
-  "file": "e1b85ose.m4a",
-  "seconds": 5.18
- },
  "male|yes, that's my mobile": {
   "file": "ml6q6kk.m4a",
   "seconds": 1.69
- },
- "emma|Just to check I've got that right: Mark Turner from Turner Builders, on 07700 900123, for 20 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered to CM12 9AB on Friday?": {
-  "file": "e8qgv8.m4a",
-  "seconds": 18.8
- },
- "emma|28 sheets, no problem. Let me just check I've got that right: Mark Turner from Turner Builders, on 07700 900123, for 28 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered to CM12 9AB on Friday?": {
-  "file": "e35jgg8.m4a",
-  "seconds": 21.72
  },
  "male|yes that's right": {
   "file": "m1a1qqvs.m4a",
@@ -191,69 +95,33 @@
   "file": "f1v14jlv.m4a",
   "seconds": 12.46
  },
- "emma|Okay, no problem. Is it urgent, or is a call back later today alright?": {
-  "file": "e1b7qcl.m4a",
-  "seconds": 5.11
- },
  "female|Yes it's quite urgent, we need an answer today": {
   "file": "fu0mr5a.m4a",
   "seconds": 3.07
- },
- "emma|Is the number you're calling from, ending 0 2 2 2, the best one to get you on?": {
-  "file": "e69q63o.m4a",
-  "seconds": 5.43
  },
  "female|yes": {
   "file": "f38wu9e.m4a",
   "seconds": 0.25
  },
- "emma|Just to check I've got that right: Rachel Green from Northfield Insulation, on 07700 900222, with a message for the team: purchase order 77120, there's a two week delay on the insulation boards and I need to know if you want to split the delivery?": {
-  "file": "eof84a8.m4a",
-  "seconds": 19.05
- },
  "female|yes that's right": {
   "file": "f12i1uwn.m4a",
   "seconds": 0.83
- },
- "emma|Thanks, Rachel. I've marked that as urgent and let the team know now. Bye for now.": {
-  "file": "es94oik.m4a",
-  "seconds": 5.3
- },
- "emma|Good afternoon, you're through to Kingfield Builders Merchants, Emma speaking. I'm the virtual assistant here. How can I help?": {
-  "file": "e1ldw80f.m4a",
-  "seconds": 7.29
  },
  "female|Hello, I need some insulation for my loft, just topping up, and 3 bulk bags of sharp sand": {
   "file": "fmqdpko.m4a",
   "seconds": 6.47
  },
- "emma|Yeah, no problem. So that's some insulation and 3 bulk bags of sharp sand. For the insulation, roughly how much do you need — number of rolls or boards, or the area in square metres?": {
-  "file": "e183eees.m4a",
-  "seconds": 13.78
- },
  "female|8 rolls": {
   "file": "f8e443t.m4a",
   "seconds": 0.68
- },
- "emma|Lovely. Do you know what thickness you need?": {
-  "file": "e1fblfuz.m4a",
-  "seconds": 2.97
  },
  "female|200mm": {
   "file": "fx7alg1.m4a",
   "seconds": 0.88
  },
- "emma|Right, I've got that. Is that for delivery, or will you collect?": {
-  "file": "etorp52.m4a",
-  "seconds": 4.51
- },
  "female|delivered please, to 9 Oak Road, Rayleigh SS6 8AB on Tuesday": {
   "file": "f1gclht8.m4a",
   "seconds": 5.56
- },
- "emma|Okay. Can a full-size lorry get in, or are there any access restrictions?": {
-  "file": "e14c9gq5.m4a",
-  "seconds": 5.35
  },
  "female|yes, a lorry can get on the drive": {
   "file": "f7z1l4n.m4a",
@@ -263,77 +131,33 @@
   "file": "foufqeu.m4a",
   "seconds": 0.62
  },
- "emma|Thanks, Priya. And is that for a company, or just yourself?": {
-  "file": "e1papcyh.m4a",
-  "seconds": 4.25
- },
  "female|no just me": {
   "file": "fvryvwc.m4a",
   "seconds": 0.95
- },
- "emma|Is the number you're calling from, ending 0 6 1 1, the best one to get you on?": {
-  "file": "e1yzr1mo.m4a",
-  "seconds": 5.18
- },
- "emma|Just to check I've got that right: Priya Patel, on 07700 900611, for 8 rolls of 200mm insulation and 3 bulk bags of sharp sand, delivered to SS6 8AB on Tuesday?": {
-  "file": "e1u6exb4.m4a",
-  "seconds": 16.86
  },
  "male|Hello, I'm calling about your business energy contract, can I speak to the bill payer please?": {
   "file": "m1mjce6v.m4a",
   "seconds": 5.04
  },
- "emma|Thanks, but we're not interested. Please remove this number from your list. Goodbye.": {
-  "file": "e15o6sy4.m4a",
-  "seconds": 5.3
- },
  "male|Hi, I want to order twenty lengths of 47 by 150 C24 at 4.8 metres, it's urgent, I need it today, I'll collect": {
   "file": "mmvl7gb.m4a",
   "seconds": 10.25
- },
- "emma|Yeah, no problem. So that's 20 lengths of 47 by 150 timber, for collection. Could I take your name, please?": {
-  "file": "e1l4od5l.m4a",
-  "seconds": 9.23
  },
  "male|Tom Reed": {
   "file": "m1bbjleo.m4a",
   "seconds": 0.88
  },
- "emma|Thanks, Tom. And is that for a company, or just yourself?": {
-  "file": "ecuyjfq.m4a",
-  "seconds": 4.45
- },
  "male|Reed Joinery": {
   "file": "m16wdam6.m4a",
   "seconds": 1.09
- },
- "emma|Is the number you're calling from, ending 0 7 2 2, the best one to get you on?": {
-  "file": "ew19w3h.m4a",
-  "seconds": 5.18
- },
- "emma|Just to check I've got that right: Tom Reed from Reed Joinery, on 07700 900722, for 20 lengths of 47 by 150 timber, for collection?": {
-  "file": "e1nlm56j.m4a",
-  "seconds": 13.87
- },
- "emma|Thanks, Tom. I've marked that as urgent and let the team know now. Bye for now.": {
-  "file": "eh63e8j.m4a",
-  "seconds": 5.12
  },
  "male|Hiya, I need 6 bulk bags of MOT type 1 and 40 bags of cement delivered to plot 4 on the Brook Farm site, CM3 5QT, Thursday": {
   "file": "m1pw4gu7.m4a",
   "seconds": 10.85
  },
- "emma|Yeah, no problem. So that's 6 bulk bags of MOT type 1 aggregates and 40 bags of cement, delivered to CM3 5QT on Thursday. Who should the driver ask for on site, and their number?": {
-  "file": "e15vq1bl.m4a",
-  "seconds": 15.04
- },
  "male|site contact is Steve on 07700 900998": {
   "file": "m1fv3v58.m4a",
   "seconds": 6.29
- },
- "emma|Lovely. Can a full-size lorry get in, or are there any access restrictions?": {
-  "file": "ebek0rs.m4a",
-  "seconds": 5.43
  },
  "male|there's good access, we need a crane offload": {
   "file": "m8qaskw.m4a",
@@ -343,53 +167,21 @@
   "file": "mxm2kga.m4a",
   "seconds": 1.05
  },
- "emma|Thanks, Gary. And is that for a company, or just yourself?": {
-  "file": "e1cqomaj.m4a",
-  "seconds": 4.26
- },
  "male|Mills Groundworks": {
   "file": "m1vs6iqw.m4a",
   "seconds": 1.39
- },
- "emma|Is the number you're calling from, ending 0 8 3 3, the best one to get you on?": {
-  "file": "e1caehge.m4a",
-  "seconds": 5.26
- },
- "emma|Just to check I've got that right: Gary Mills from Mills Groundworks, on 07700 900833, for 6 bulk bags of MOT type 1 aggregates and 40 bags of cement, delivered to CM3 5QT on Thursday?": {
-  "file": "e3fhck7.m4a",
-  "seconds": 18.02
- },
- "emma|Good evening, you're through to Kingfield Builders Merchants, Emma speaking. I'm the virtual assistant here. We're closed at the moment, but I can take a message for the team.": {
-  "file": "e123xqqi.m4a",
-  "seconds": 9.72
  },
  "male|Hi, are you still open? I need some plasterboard and a few lengths of timber first thing tomorrow": {
   "file": "m1e43ff1.m4a",
   "seconds": 5.42
  },
- "emma|Yeah, no problem. We've closed for the day now. We're open again tomorrow at 7:30am. Our usual hours are Monday to Friday 7:30am to 5pm, Saturday 8am to 12pm, closed Sunday. For the plasterboard, how many sheets do you need?": {
-  "file": "eanoycd.m4a",
-  "seconds": 19.1
- },
  "male|10 sheets": {
   "file": "m1wpm46j.m4a",
   "seconds": 1.01
  },
- "emma|Lovely. Do you know the thickness — 9.5 or 12.5 mil?": {
-  "file": "e1bkj1g4.m4a",
-  "seconds": 5.32
- },
  "male|12.5 mil": {
   "file": "miw0qz8.m4a",
   "seconds": 1.44
- },
- "emma|Right, I've got that. What size sheets — 2400 by 1200, or something smaller?": {
-  "file": "e1t0kvz6.m4a",
-  "seconds": 6.52
- },
- "emma|Okay. For the timber, how many lengths?": {
-  "file": "e1da0q5z.m4a",
-  "seconds": 3.19
  },
  "male|6 lengths": {
   "file": "m5ljqzj.m4a",
@@ -399,220 +191,428 @@
   "file": "m1qx5tsn.m4a",
   "seconds": 0.98
  },
- "emma|Thanks, Sam. And is that for a company, or just yourself?": {
-  "file": "envi2nt.m4a",
-  "seconds": 4.26
- },
  "male|no just me": {
   "file": "me76b5n.m4a",
   "seconds": 1.44
- },
- "emma|Is the number you're calling from, ending 0 4 4 4, the best one to get you on?": {
-  "file": "eose5uq.m4a",
-  "seconds": 5.39
- },
- "emma|Just to check I've got that right: Sam Patel, on 07700 900444, for 10 sheets of 12.5mm plasterboard and 6 lengths of timber?": {
-  "file": "e14jnde6.m4a",
-  "seconds": 12.46
- },
- "emma|Thanks, Sam. I'll pass this on and someone will call you back tomorrow at 7:30am. Bye for now.": {
-  "file": "ewtvk3r.m4a",
-  "seconds": 6.57
  },
  "male|Hi, I'd like 500 red facing bricks and 2 bulk bags of building sand for a garden wall, I'll collect": {
   "file": "mcjdwj2.m4a",
   "seconds": 7.14
  },
- "emma|Yeah, no problem. So that's 500 facing bricks and 2 bulk bags of building sand, for collection. Could I take your name, please?": {
-  "file": "eykr69q.m4a",
-  "seconds": 9.29
- },
  "male|Dave Smith": {
   "file": "mmsa48l.m4a",
   "seconds": 0.87
- },
- "emma|Thanks, Dave. And is that for a company, or just yourself?": {
-  "file": "e1dkbrn4.m4a",
-  "seconds": 4.15
  },
  "male|Smith Builders": {
   "file": "mki5z89.m4a",
   "seconds": 1.14
  },
- "emma|Is the number you're calling from, ending 0 5 5 5, the best one to get you on?": {
-  "file": "et465wn.m4a",
-  "seconds": 5.38
- },
- "emma|Just to check I've got that right: Dave Smith from Smith Builders, on 07700 900555, for 500 facing bricks and 2 bulk bags of building sand, for collection?": {
-  "file": "eyvay4y.m4a",
-  "seconds": 14.29
- },
  "female|Hi, what time do you close on Saturday?": {
   "file": "f17weojw.m4a",
   "seconds": 1.71
- },
- "emma|We're open today from 7:30am until 5pm. Our usual hours are Monday to Friday 7:30am to 5pm, Saturday 8am to 12pm, closed Sunday. Anything else I can help with?": {
-  "file": "esl50ji.m4a",
-  "seconds": 15.25
  },
  "female|no thanks, that's all": {
   "file": "frxmijx.m4a",
   "seconds": 1.29
  },
- "emma|Thanks for calling Kingfield Builders Merchants. Bye now.": {
-  "file": "e15b73rx.m4a",
-  "seconds": 3.35
- },
  "male|Hi, it's John from British Gypsum. Could I speak to Sodhi in purchasing?": {
   "file": "m1gj3n3h.m4a",
   "seconds": 4.66
- },
- "emma|Of course, John. I'll pass that on to Sodhi. Is there anything you'd like me to let Sodhi know before I send the message?": {
-  "file": "emqbioh.m4a",
-  "seconds": 6.94
  },
  "male|Just tell him the plasterboard will be delivered tomorrow": {
   "file": "m8s04if.m4a",
   "seconds": 2.8
  },
- "emma|Is that relating to a particular order or purchase order number?": {
-  "file": "e1fur4pp.m4a",
-  "seconds": 4.09
- },
  "male|Yes, it's PO 45127": {
   "file": "mnocii8.m4a",
   "seconds": 3.31
- },
- "emma|Is the number you're calling from, ending 0 2 4 1, the best one to get you on?": {
-  "file": "e1y8cwzh.m4a",
-  "seconds": 5.36
- },
- "emma|Just to check I've got that right: John from British Gypsum, on 07700 900241, with a message for Sodhi: the plasterboard will be delivered tomorrow, order 45127?": {
-  "file": "eosqf8s.m4a",
-  "seconds": 14.83
- },
- "emma|No problem, John. I'll pass that over to Sodhi. Bye now.": {
-  "file": "e1qd0euk.m4a",
-  "seconds": 3.83
  },
  "male|Hi, I'm the driver with your bricks, I'm outside but I can't find your yard": {
   "file": "mfakd55.m4a",
   "seconds": 4.85
  },
- "emma|No problem. Please only carry on if you're safely parked or on hands-free. Are you near the A127 roundabout or the industrial estate entrance?": {
-  "file": "e14iaz8j.m4a",
-  "seconds": 10.01
- },
  "male|I'm by the A127 roundabout": {
   "file": "m4zmx59.m4a",
   "seconds": 2.31
- },
- "emma|Please note: Don't use Mill Lane, it has a 7.5 tonne limit. Okay, I'll help you find the right entrance. Take the Station Road exit at the A127 roundabout. Say \"next\" when you've done that, or \"repeat\" if you need it again.": {
-  "file": "e1am75og.m4a",
-  "seconds": 16.56
  },
  "male|next": {
   "file": "m85s7gd.m4a",
   "seconds": 0.63
  },
- "emma|Go past the Shell garage on your left.": {
-  "file": "e1w536kq.m4a",
-  "seconds": 2.49
- },
  "male|okay": {
   "file": "m1cozrxo.m4a",
   "seconds": 0.61
- },
- "emma|Next, take the second gate on the left, marked Goods In.": {
-  "file": "ez84k7v.m4a",
-  "seconds": 4.25
  },
  "male|yeah": {
   "file": "m1xxmhvb.m4a",
   "seconds": 0.52
  },
- "emma|That should bring you to the second gate on Station Road, marked Goods In. Report to the goods-in office by the weighbridge. Can you see it?": {
-  "file": "e1nlml2m.m4a",
-  "seconds": 8.81
- },
  "male|yes I can see it": {
   "file": "m19o83jm.m4a",
   "seconds": 1.64
- },
- "emma|Brilliant, glad you found us. I'll let goods-in know you're here. Have you got a delivery note or order number?": {
-  "file": "e9c4vln.m4a",
-  "seconds": 6.77
  },
  "male|delivery note 66120": {
   "file": "miirlyt.m4a",
   "seconds": 2.76
  },
- "emma|Is the number you're calling from, ending 0 3 5 2, the best one to get you on?": {
-  "file": "e1cztlkq.m4a",
-  "seconds": 5.34
- },
- "emma|Thanks. Goods-in know you're here. Take care.": {
-  "file": "e1it7u30.m4a",
-  "seconds": 3.2
- },
  "male|I'm delivering for Celotex and the postcode has brought me somewhere else, I'm on the industrial estate": {
   "file": "m1fs1stx.m4a",
   "seconds": 5.64
- },
- "emma|Our yard is at Unit 4, Station Road, Basildon, SS14 3AB. Please only carry on if you're safely parked or on hands-free. Are you in a van, or a lorry?": {
-  "file": "e7uznm0.m4a",
-  "seconds": 13.07
  },
  "male|it's an artic": {
   "file": "mr1iyxr.m4a",
   "seconds": 1.08
  },
- "emma|That way in isn't approved for lorries, so I won't send you down it. I'm alerting the goods-in team now so someone can call you straight back with a safe way in. Have you got a delivery note or order number?": {
-  "file": "ee30hsv.m4a",
-  "seconds": 12.65
- },
  "male|no reference sorry": {
   "file": "msfanbf.m4a",
   "seconds": 1.87
- },
- "emma|Is the number you're calling from, ending 0 3 5 3, the best one to get you on?": {
-  "file": "e1ob3ixz.m4a",
-  "seconds": 5.35
- },
- "emma|Thanks. Goods-in know it's urgent and will ring you back on that number. Only wait somewhere it's safe to stop. Bye now.": {
-  "file": "e9md1nc.m4a",
-  "seconds": 7.74
  },
  "female|Hello, it's Priya from Marshalls credit control, I need to speak to someone in accounts about an overdue invoice": {
   "file": "f1h9kt2v.m4a",
   "seconds": 5.86
  },
- "emma|Okay, no problem. Is there an invoice or account reference I should pass on?": {
-  "file": "e1iq9fh1.m4a",
-  "seconds": 5.03
- },
  "female|Invoice 99812": {
   "file": "f1fuzsff.m4a",
   "seconds": 2.17
- },
- "emma|Is it urgent, or is a call back later today alright?": {
-  "file": "eeairtr.m4a",
-  "seconds": 3.58
  },
  "female|not urgent, this week is fine": {
   "file": "ftvy72v.m4a",
   "seconds": 1.82
  },
- "emma|Is the number you're calling from, ending 0 2 4 5, the best one to get you on?": {
-  "file": "ezzxcjt.m4a",
-  "seconds": 5.16
+ "lee|Morning, you're through to Kingfield Builders Merchants. Lee speaking, what can I do for you?": {
+  "file": "l1e2jbzj.m4a",
+  "seconds": 4.85
  },
- "emma|Just to check I've got that right: Priya from Marshalls, on 07700 900245, with a message for our accounts team: credit control, I need to speak to someone in accounts about an overdue invoice, reference 99812?": {
-  "file": "e10rtgm3.m4a",
-  "seconds": 17.94
+ "lee|Yeah, no worries. So that's 25 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered on Friday. For the plasterboard, what size sheets — 2400 by 1200, or something smaller?": {
+  "file": "lj9d839.m4a",
+  "seconds": 18.12
  },
- "emma|No problem, Priya. I'll pass that over to our accounts team. Bye now.": {
-  "file": "e133wuem.m4a",
-  "seconds": 4.37
+ "lee|Lovely. For the timber, what lengths do you need — 2.4, 3.6, 4.8 metres?": {
+  "file": "ltkptlk.m4a",
+  "seconds": 6.77
+ },
+ "lee|Yeah, I've got you. What's the postcode for the delivery?": {
+  "file": "l1a4jr8d.m4a",
+  "seconds": 3.17
+ },
+ "lee|Right, got that. Who should the driver ask for on site, and their number?": {
+  "file": "l1hf5e59.m4a",
+  "seconds": 4.71
+ },
+ "lee|And what's your name?": {
+  "file": "l4kkm47.m4a",
+  "seconds": 1.18
+ },
+ "lee|Cheers, Dan. And is that for a company, or just yourself?": {
+  "file": "l1bg6js0.m4a",
+  "seconds": 3.98
+ },
+ "lee|Is the number you're calling from, ending 0 4 7 1, the best one to get you on?": {
+  "file": "l125y6v0.m4a",
+  "seconds": 5.11
+ },
+ "lee|Right, let me just check I've got that: Dan Walsh from Walsh Construction, on 07700 900471, for 25 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered to CM3 4AB on Friday?": {
+  "file": "l1wm9dg3.m4a",
+  "seconds": 21.24
+ },
+ "lee|28 sheets, no problem. Just so I've got it right: Dan Walsh from Walsh Construction, on 07700 900471, for 28 sheets of 12.5mm plasterboard, 20 lengths of 47 by 100 timber and 15 bags of cement, delivered to CM3 4AB on Friday?": {
+  "file": "l13v3si1.m4a",
+  "seconds": 22.12
+ },
+ "lee|Lovely. I'll get that passed over to the sales team and they'll come back to you. Cheers, bye.": {
+  "file": "lsfqbyl.m4a",
+  "seconds": 5.2
+ },
+ "lee|Right, I'm flagging this as urgent for the yard team now. I'm not able to authorise unloading or tell you where to drop, but I'm alerting the yard team so someone can come to you. And what's your name?": {
+  "file": "l5vzi9x.m4a",
+  "seconds": 11.15
+ },
+ "lee|Cheers, Kev. And which company are you driving for?": {
+  "file": "l1p1yjrc.m4a",
+  "seconds": 3.15
+ },
+ "lee|Have you got a delivery note or order number?": {
+  "file": "lfo3kh2.m4a",
+  "seconds": 2.6
+ },
+ "lee|Is the delivery for our yard, or for a customer's site?": {
+  "file": "lbmle4.m4a",
+  "seconds": 3.34
+ },
+ "lee|What's your vehicle registration, so the yard can spot you?": {
+  "file": "l1c9cx8k.m4a",
+  "seconds": 3.17
+ },
+ "lee|Is the number you're calling from, ending 0 3 3 3, the best one to get you on?": {
+  "file": "l1u72eq9.m4a",
+  "seconds": 5.07
+ },
+ "lee|Right, let me just check I've got that: Kev Barnes from Northway Haulage, on 07700 900333, you can't get on site, delivery reference 44102?": {
+  "file": "l1l9ycjm.m4a",
+  "seconds": 14
+ },
+ "lee|Thanks, Kev. I've marked that as urgent and let the team know now. Bye for now.": {
+  "file": "l1klfjop.m4a",
+  "seconds": 4.66
+ },
+ "lee|Yeah, no worries. So that's 20 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered on Friday. I can't confirm prices or stock from here, but the team'll come back to you on that. What's the postcode for the delivery?": {
+  "file": "l1d2k66j.m4a",
+  "seconds": 15.6
+ },
+ "lee|Cheers, Mark. And is that for a company, or just yourself?": {
+  "file": "lhson3s.m4a",
+  "seconds": 3.87
+ },
+ "lee|Is the number you're calling from, ending 0 1 2 3, the best one to get you on?": {
+  "file": "lmhsb9a.m4a",
+  "seconds": 5.21
+ },
+ "lee|Right, let me just check I've got that: Mark Turner from Turner Builders, on 07700 900123, for 20 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered to CM12 9AB on Friday?": {
+  "file": "l1n4rdm0.m4a",
+  "seconds": 18.89
+ },
+ "lee|28 sheets, no problem. Just so I've got it right: Mark Turner from Turner Builders, on 07700 900123, for 28 sheets of 12.5mm plasterboard and 15 bags of multi-finish plaster, delivered to CM12 9AB on Friday?": {
+  "file": "l1fy9nuf.m4a",
+  "seconds": 20.42
+ },
+ "lee|Okay, no problem. Is it urgent, or is a call back later today alright?": {
+  "file": "l1holpph.m4a",
+  "seconds": 4.88
+ },
+ "lee|Is the number you're calling from, ending 0 2 2 2, the best one to get you on?": {
+  "file": "lw5sfc4.m4a",
+  "seconds": 5.11
+ },
+ "lee|Right, let me just check I've got that: Rachel Green from Northfield Insulation, on 07700 900222, with a message for the team: purchase order 77120, there's a two week delay on the insulation boards and I need to know if you want to split the delivery?": {
+  "file": "lk5byr8.m4a",
+  "seconds": 19.02
+ },
+ "lee|Thanks, Rachel. I've marked that as urgent and let the team know now. Bye for now.": {
+  "file": "liqm70.m4a",
+  "seconds": 4.73
+ },
+ "lee|Afternoon, you're through to Kingfield Builders Merchants. Lee speaking, what can I do for you?": {
+  "file": "l1crmkeb.m4a",
+  "seconds": 4.94
+ },
+ "lee|Yeah, no worries. So that's some insulation and 3 bulk bags of sharp sand. For the insulation, roughly how much do you need — number of rolls or boards, or the area in square metres?": {
+  "file": "l8tbe6e.m4a",
+  "seconds": 13.13
+ },
+ "lee|Lovely. Do you know what thickness you need?": {
+  "file": "lmf5jf.m4a",
+  "seconds": 2.54
+ },
+ "lee|Yeah, I've got you. Is that for delivery, or will you collect?": {
+  "file": "lt7jbej.m4a",
+  "seconds": 3.53
+ },
+ "lee|Right, got that. Can a full-size lorry get in, or are there any access restrictions?": {
+  "file": "l15hgwbg.m4a",
+  "seconds": 5.79
+ },
+ "lee|Cheers, Priya. And is that for a company, or just yourself?": {
+  "file": "l1eb7a8w.m4a",
+  "seconds": 4.05
+ },
+ "lee|Is the number you're calling from, ending 0 6 1 1, the best one to get you on?": {
+  "file": "l136u6v4.m4a",
+  "seconds": 5.24
+ },
+ "lee|Right, let me just check I've got that: Priya Patel, on 07700 900611, for 8 rolls of 200mm insulation and 3 bulk bags of sharp sand, delivered to SS6 8AB on Tuesday?": {
+  "file": "lp720dg.m4a",
+  "seconds": 16.07
+ },
+ "lee|Thanks, but we're not interested. Please remove this number from your list. Goodbye.": {
+  "file": "luvybt8.m4a",
+  "seconds": 5.01
+ },
+ "lee|Yeah, no worries. So that's 20 lengths of 47 by 150 timber, for collection. And what's your name?": {
+  "file": "l1aov63b.m4a",
+  "seconds": 8.18
+ },
+ "lee|Cheers, Tom. And is that for a company, or just yourself?": {
+  "file": "lrj545n.m4a",
+  "seconds": 3.99
+ },
+ "lee|Is the number you're calling from, ending 0 7 2 2, the best one to get you on?": {
+  "file": "lnqyqkd.m4a",
+  "seconds": 5.12
+ },
+ "lee|Right, let me just check I've got that: Tom Reed from Reed Joinery, on 07700 900722, for 20 lengths of 47 by 150 timber, for collection?": {
+  "file": "l1yxzco7.m4a",
+  "seconds": 14.14
+ },
+ "lee|Thanks, Tom. I've marked that as urgent and let the team know now. Bye for now.": {
+  "file": "l1awa7ir.m4a",
+  "seconds": 4.5
+ },
+ "lee|Yeah, no worries. So that's 6 bulk bags of MOT type 1 aggregates and 40 bags of cement, delivered to CM3 5QT on Thursday. Who should the driver ask for on site, and their number?": {
+  "file": "l1rxbnfv.m4a",
+  "seconds": 13.87
+ },
+ "lee|Lovely. Can a full-size lorry get in, or are there any access restrictions?": {
+  "file": "llqts4o.m4a",
+  "seconds": 5.09
+ },
+ "lee|Cheers, Gary. And is that for a company, or just yourself?": {
+  "file": "l1ninkzg.m4a",
+  "seconds": 4.03
+ },
+ "lee|Is the number you're calling from, ending 0 8 3 3, the best one to get you on?": {
+  "file": "l1vb9cu.m4a",
+  "seconds": 4.98
+ },
+ "lee|Right, let me just check I've got that: Gary Mills from Mills Groundworks, on 07700 900833, for 6 bulk bags of MOT type 1 aggregates and 40 bags of cement, delivered to CM3 5QT on Thursday?": {
+  "file": "l11ftpt7.m4a",
+  "seconds": 18.33
+ },
+ "lee|Evening, you're through to Kingfield Builders Merchants. Lee speaking. We're closed at the moment, but I can take a message for the team.": {
+  "file": "lubwky6.m4a",
+  "seconds": 7.01
+ },
+ "lee|Yeah, no worries. We've closed for the day now. We're open again tomorrow at 7:30am. Our usual hours are Monday to Friday 7:30am to 5pm, Saturday 8am to 12pm, closed Sunday. For the plasterboard, how many sheets do you need?": {
+  "file": "l14nqxtz.m4a",
+  "seconds": 17.96
+ },
+ "lee|Lovely. Do you know the thickness — 9.5 or 12.5 mil?": {
+  "file": "l1gov4k4.m4a",
+  "seconds": 4.9
+ },
+ "lee|Yeah, I've got you. What size sheets — 2400 by 1200, or something smaller?": {
+  "file": "lsd1bvv.m4a",
+  "seconds": 6.21
+ },
+ "lee|Right, got that. For the timber, how many lengths?": {
+  "file": "l1u0kpga.m4a",
+  "seconds": 3.54
+ },
+ "lee|Cheers, Sam. And is that for a company, or just yourself?": {
+  "file": "lj926ek.m4a",
+  "seconds": 4.05
+ },
+ "lee|Is the number you're calling from, ending 0 4 4 4, the best one to get you on?": {
+  "file": "l19946ea.m4a",
+  "seconds": 5.18
+ },
+ "lee|Right, let me just check I've got that: Sam Patel, on 07700 900444, for 10 sheets of 12.5mm plasterboard and 6 lengths of timber?": {
+  "file": "l1dxvra2.m4a",
+  "seconds": 12.88
+ },
+ "lee|Cheers, Sam. I'll pass this on and someone will give you a ring tomorrow at 7:30am. Bye for now.": {
+  "file": "l1dy81t5.m4a",
+  "seconds": 6.4
+ },
+ "lee|Yeah, no worries. So that's 500 facing bricks and 2 bulk bags of building sand, for collection. And what's your name?": {
+  "file": "l8a79xw.m4a",
+  "seconds": 8.45
+ },
+ "lee|Cheers, Dave. And is that for a company, or just yourself?": {
+  "file": "l1u6r7h3.m4a",
+  "seconds": 3.89
+ },
+ "lee|Is the number you're calling from, ending 0 5 5 5, the best one to get you on?": {
+  "file": "ldpysvb.m4a",
+  "seconds": 5.29
+ },
+ "lee|Right, let me just check I've got that: Dave Smith from Smith Builders, on 07700 900555, for 500 facing bricks and 2 bulk bags of building sand, for collection?": {
+  "file": "ldt6epa.m4a",
+  "seconds": 13.89
+ },
+ "lee|We're open today from 7:30am until 5pm. Our usual hours are Monday to Friday 7:30am to 5pm, Saturday 8am to 12pm, closed Sunday. Anything else I can do for you?": {
+  "file": "l1r7cn46.m4a",
+  "seconds": 13.77
+ },
+ "lee|Thanks for calling Kingfield Builders Merchants. Bye now.": {
+  "file": "l1rylcf1.m4a",
+  "seconds": 3.01
+ },
+ "lee|Yeah, of course, John. Is there anything you need me to pass on to Sodhi?": {
+  "file": "lu1vmaw.m4a",
+  "seconds": 3.88
+ },
+ "lee|Is that relating to a particular order or purchase order number?": {
+  "file": "l1rn2cil.m4a",
+  "seconds": 3.84
+ },
+ "lee|Is the number you're calling from, ending 0 2 4 1, the best one to get you on?": {
+  "file": "l1kmk3lp.m4a",
+  "seconds": 5.06
+ },
+ "lee|Right, let me just check I've got that: John from British Gypsum, on 07700 900241, with a message for Sodhi: the plasterboard will be delivered tomorrow, order 45127?": {
+  "file": "l1dfyigo.m4a",
+  "seconds": 15.05
+ },
+ "lee|No problem, John. I'll get that over to Sodhi. Cheers, bye.": {
+  "file": "l14tan55.m4a",
+  "seconds": 3.75
+ },
+ "lee|No problem. Please only carry on if you're safely parked or on hands-free. Are you near the A127 roundabout or the industrial estate entrance?": {
+  "file": "l1ybk2sj.m4a",
+  "seconds": 9.32
+ },
+ "lee|Please note: Don't use Mill Lane, it has a 7.5 tonne limit. Okay, I'll help you find the right entrance. Take the Station Road exit at the A127 roundabout. Say \"next\" when you've done that, or \"repeat\" if you need it again.": {
+  "file": "l132wo5c.m4a",
+  "seconds": 15.41
+ },
+ "lee|Go past the Shell garage on your left.": {
+  "file": "l1mi3xe2.m4a",
+  "seconds": 1.91
+ },
+ "lee|Next, take the second gate on the left, marked Goods In.": {
+  "file": "l10nq36j.m4a",
+  "seconds": 4.05
+ },
+ "lee|That should bring you to the second gate on Station Road, marked Goods In. Report to the goods-in office by the weighbridge. Can you see it?": {
+  "file": "l1fnqga6.m4a",
+  "seconds": 8.11
+ },
+ "lee|Brilliant, glad you found us. I'll let goods-in know you're here. Have you got a delivery note or order number?": {
+  "file": "l2oivgb.m4a",
+  "seconds": 5.96
+ },
+ "lee|Is the number you're calling from, ending 0 3 5 2, the best one to get you on?": {
+  "file": "l17qbcu2.m4a",
+  "seconds": 5.11
+ },
+ "lee|Thanks. Goods-in know you're here. Take care.": {
+  "file": "l7mb230.m4a",
+  "seconds": 3.03
+ },
+ "lee|Our yard is at Unit 4, Station Road, Basildon, SS14 3AB. Please only carry on if you're safely parked or on hands-free. Are you in a van, or a lorry?": {
+  "file": "l1nh65mw.m4a",
+  "seconds": 12.84
+ },
+ "lee|That way in isn't approved for lorries, so I won't send you down it. I'm alerting the goods-in team now so someone can call you straight back with a safe way in. Have you got a delivery note or order number?": {
+  "file": "lp63bof.m4a",
+  "seconds": 11.59
+ },
+ "lee|Is the number you're calling from, ending 0 3 5 3, the best one to get you on?": {
+  "file": "l1ht6x2f.m4a",
+  "seconds": 5.1
+ },
+ "lee|Thanks. Goods-in know it's urgent and will ring you back on that number. Only wait somewhere it's safe to stop. Bye now.": {
+  "file": "l1qkyic8.m4a",
+  "seconds": 7.47
+ },
+ "lee|Okay, no problem. Is there an invoice or account reference I should pass on?": {
+  "file": "l15z3cr9.m4a",
+  "seconds": 4.83
+ },
+ "lee|Is it urgent, or is a call back later today alright?": {
+  "file": "l1jq0jkv.m4a",
+  "seconds": 3.31
+ },
+ "lee|Is the number you're calling from, ending 0 2 4 5, the best one to get you on?": {
+  "file": "l1yx2a6h.m4a",
+  "seconds": 5.11
+ },
+ "lee|Right, let me just check I've got that: Priya from Marshalls, on 07700 900245, with a message for our accounts team: credit control, I need to speak to someone in accounts about an overdue invoice, reference 99812?": {
+  "file": "lqyfe1z.m4a",
+  "seconds": 17.6
+ },
+ "lee|No problem, Priya. I'll get that over to our accounts team. Cheers, bye.": {
+  "file": "l1cuvp5z.m4a",
+  "seconds": 4.26
  }
 }
