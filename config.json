@@ -1,5 +1,5 @@
 {
-  "_readme": "Edit this file to change contact details, booking and pricing on the website without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here — this file is public.",
+  "_readme": "Edit this file to change the website's contact details and whether the live voice demo is shown, without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here — this file is public.",
   "companyName": "Yardline",
   "contact": {
     "email": "",
@@ -7,26 +7,5 @@
     "bookingUrl": "",
     "formEndpoint": ""
   },
-  "liveVoice": true,
-  "pricing": {
-    "show": true,
-    "currency": "£",
-    "setupFee": "750",
-    "setupIncludes": [
-      "Your branch details, hours, delivery rules and products set up",
-      "Lee (or Aman in Punjabi) configured for your branch",
-      "Staff directory, departments and routing",
-      "Test calls with your team before go-live",
-      "Help adding the call forward on your phone system"
-    ],
-    "weekly": "150",
-    "weeklyIncludes": [
-      "Your receptionist answering the calls you forward",
-      "Every call written up in your dashboard, urgent ones flagged",
-      "Knowledge, staff and routing kept up to date as things change",
-      "Ongoing monitoring, improvements and support"
-    ],
-    "plans": [],
-    "usageNote": "Telephone and AI usage are agreed with you up front, based on your call volumes, and confirmed in your quote."
-  }
+  "liveVoice": true
 }
