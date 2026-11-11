@@ -9,14 +9,24 @@
   },
   "liveVoice": true,
   "pricing": {
-    "show": false,
+    "show": true,
     "currency": "£",
-    "setupFee": "",
-    "setupIncludes": ["Your products, hours, delivery rules and team set up", "Call forwarding from your existing number", "Test calls with your team before go-live"],
-    "plans": [
-      { "name": "Single branch", "monthly": "", "includes": ["One phone line", "Enquiries, customers and insights dashboard", "Email and WhatsApp handovers"] },
-      { "name": "Multi-branch", "monthly": "", "includes": ["Several branches and numbers", "Per-branch routing", "Priority support"] }
+    "setupFee": "750",
+    "setupIncludes": [
+      "Your branch details, hours, delivery rules and products set up",
+      "Lee (or Aman in Punjabi) configured for your branch",
+      "Staff directory, departments and routing",
+      "Test calls with your team before go-live",
+      "Help adding the call forward on your phone system"
     ],
-    "usageNote": "Telephone and AI usage are charged at cost or included in an agreed allowance — confirmed in your quote."
+    "weekly": "150",
+    "weeklyIncludes": [
+      "Your receptionist answering the calls you forward",
+      "Every call written up in your dashboard, urgent ones flagged",
+      "Knowledge, staff and routing kept up to date as things change",
+      "Ongoing monitoring, improvements and support"
+    ],
+    "plans": [],
+    "usageNote": "Telephone and AI usage are agreed with you up front, based on your call volumes, and confirmed in your quote."
   }
 }
