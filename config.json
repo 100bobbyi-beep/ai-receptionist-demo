@@ -7,5 +7,6 @@
     "bookingUrl": "",
     "formEndpoint": ""
   },
-  "liveVoice": true
+  "liveVoice": true,
+  "multilingual": true
 }
