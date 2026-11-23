@@ -1,5 +1,5 @@
 {
-  "_readme": "Edit this file to change the website's contact details and whether the live voice demo is shown, without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here — this file is public.",
+  "_readme": "Edit this file to change the website's contact details and whether the live voice demo is shown, without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here \u2014 this file is public.",
   "companyName": "Yardline",
   "contact": {
     "email": "",
@@ -7,6 +7,6 @@
     "bookingUrl": "",
     "formEndpoint": ""
   },
-  "liveVoice": true,
-  "multilingual": true
+  "liveVoice": false,
+  "multilingual": false
 }
