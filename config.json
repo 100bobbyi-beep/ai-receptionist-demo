@@ -1,5 +1,5 @@
 {
-  "_readme": "Edit this file to change the website's contact details and whether the live voice demo is shown, without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here \u2014 this file is public.",
+  "_readme": "Edit this file to change the website's contact details and whether the live voice demo is shown, without rebuilding. Leave a value empty (\"\") to hide it. Never put passwords or API keys here — this file is public.",
   "companyName": "Yardline",
   "contact": {
     "email": "",
@@ -7,6 +7,8 @@
     "bookingUrl": "",
     "formEndpoint": ""
   },
-  "liveVoice": false,
-  "multilingual": false
+  "liveVoice": true,
+  "multilingual": false,
+  "voiceBeforePrivacyComplete": true,
+  "_voiceBeforePrivacyComplete": "Owner's choice, 25 Nov 2026: run the live voice demo before the privacy details are added. Remove this (or fill in all privacy details) to change it."
 }
